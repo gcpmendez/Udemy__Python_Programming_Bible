@@ -26,4 +26,3 @@ else:
     print("No it doesn't equal a valid value")
     
 if (var1 > 50):print("Var1 is greater than 50")
-    
